@@ -1,4 +1,5 @@
-### Snitch - An Android-based application designed to connect parents with their new drivers. The application provides real-time tracking of the driving, interprets the driving behavior of the driver, and monitors unusual driving events
+# Snitch
+### Snitch is an Android-based application designed to connect parents with their new drivers. The application provides real-time tracking of the driving, interprets the driving behavior of the driver, and monitors unusual driving events
 ![ic_launcher_foreground](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/3cf9802a-5c14-4254-80ee-99cfe65f2b6c)
 # :star2: :zap: What Is Snitch? :zap: :star2:
 The system is designed to provide real-time information, fully synchronized between the parent and the new driver, from the moment the driver starts their journey in the car until its end. The real-time information provided to the parent will focus on several key and important aspects:
