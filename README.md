@@ -1,5 +1,5 @@
 # Snitch_Presentation
-![image](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/3ae1ac6a-879b-41ed-8c34-050109700e4f)
+![ic_launcher_foreground](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/3cf9802a-5c14-4254-80ee-99cfe65f2b6c)
 
 # :star2: :zap: What Is Snitch? :zap: :star2:
 
