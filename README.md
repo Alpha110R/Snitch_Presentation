@@ -1,7 +1,7 @@
 # Snitch_Presentation
 ![app_icon](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/bb6f2fb6-1cdd-4ae1-be33-066b3336c134)
 
-# :star2: :zap: What Is Snitch? :zap: :star2:
+#:star2: :zap: What Is Snitch? :zap: :star2:
 
 The system is designed to provide real-time information, fully synchronized between the parent and the new driver, from the moment the driver starts their journey in the car until its end. The real-time information provided to the parent will focus on several key and important aspects:
 
