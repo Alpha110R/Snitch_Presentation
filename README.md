@@ -44,7 +44,3 @@ https://youtu.be/t4GHhtEnIqs
 ![Snitch Architecture](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/488dd4db-f55d-4e7c-af41-54bee4d5a55e)
 
 ![Architecture](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/de8c45e6-3c1c-4ed0-a0d3-1155fe4c68bc)
-
-![Log In Parent](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/0f9beac3-03fe-4d6e-8ec7-0f051a3a47fd)
-
-![Data flow from driver to parent - driving data](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/69eaea2a-84b9-47bb-9288-40ede05e44aa)
