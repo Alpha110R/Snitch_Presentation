@@ -41,10 +41,10 @@ https://youtu.be/t4GHhtEnIqs
 
 ![image](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/4f05d9dd-d853-4db2-82db-21ff96bf364d)
 
-![image](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/8591670b-7ae1-4dc1-b5fd-ed578ab8df7a)
+![Snitch Architecture](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/488dd4db-f55d-4e7c-af41-54bee4d5a55e)
 
-![image](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/a4646598-4e86-44c4-b704-df92b1d4c6a6)
+![Architecture](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/de8c45e6-3c1c-4ed0-a0d3-1155fe4c68bc)
 
-![image](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/baae9609-7910-42b9-8422-9fe9c0feb015)
+![Log In Parent](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/0f9beac3-03fe-4d6e-8ec7-0f051a3a47fd)
 
-![image](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/70256ba8-42a5-41cf-ab8f-288a63ab1c12)
+![Data flow from driver to parent - driving data](https://github.com/Alpha110R/Snitch_Presentation/assets/68230416/69eaea2a-84b9-47bb-9288-40ede05e44aa)
